@@ -5,7 +5,7 @@
   "main": "script.js",
   "dependencies": {
     "azure-maps-control": "^2.0.20",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fetch": "^1.1.0"
   },
   "devDependencies": {},
